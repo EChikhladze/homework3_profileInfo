@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">homework3_profileInfo</string>
+    <string name="title">Profile Info</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="age">Age</string>
+    <string name="save">Save</string>
+    <string name="clear">Clear</string>
+    <string name="requiredError">This field is required</string>
+    <string name="usernameLengthError">Should be more than 10 chars</string>
+    <string name="emailValidityError">Invalid email</string>
+    <string name="ageValidityError">Invalid input</string>
+    <string name="again">Again</string>
+</resources>
